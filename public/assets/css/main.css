@@ -2053,7 +2053,7 @@
 		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
 			margin: 0;
 			font-weight: 600;
-			color: #e02507;
+			color: #ee2020;
 		}
 
 		header.major p {
@@ -2860,7 +2860,7 @@
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg,  #ffe430 10%, #ea8d1e 20%, #f21f00);
+		background-image: url(images/overlay2.png), url(images/overlay3.svg), linear-gradient(45deg,  #dfe210 10%, #44f12c 30%, #000df2);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		overflow: hidden;
@@ -3050,7 +3050,7 @@
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url(images/overlay2.png), url(images/overlay4.svg), linear-gradient(45deg, #fbe349, #c10707 60%);
+		background-image: url(images/overlay2.png), url(images/overlay4.svg), linear-gradient(45deg, #495ffb, #07c115 100%);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		text-align: center;
