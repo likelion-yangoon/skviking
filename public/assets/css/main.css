@@ -2053,7 +2053,7 @@
 		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
 			margin: 0;
 			font-weight: 600;
-			color: #ee2020;
+			color: #000000;
 		}
 
 		header.major p {
